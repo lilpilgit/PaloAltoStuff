@@ -1,2 +1,4 @@
 # PaloAltoStuff
-Useful stuff and knowledge about Palo Alto Network world.
+Notes, commands, scripts and shortcuts for configuring the Palo Alto Networks Firewall.
+
+
